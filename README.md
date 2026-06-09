@@ -66,11 +66,10 @@ The Block Diagram is split into two regions: signal **acquisition/loading** (a C
 ```
 .
 ├── README.md
-├── Tesina_Frullo_Corrado.vi                        # LabVIEW Virtual Instrument
+├── Tesina_Frullo_Corrado.vi                # LabVIEW Virtual Instrument
 ├── Tesina_Misure_Frullo_Corrado.pdf        # Project report (design, block diagram, front panel, user guide)
 └── test/                                   # Sample .wav files for testing
-    ├── sample1.wav
-    └── sample2.wav
+
 ```
 
 > The report contains the full walkthrough: LabVIEW basics, project specifications, the Functions used, the Block Diagram and Front Panel, and a step-by-step user guide.
